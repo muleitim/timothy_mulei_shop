@@ -38,7 +38,7 @@ const DefaultFooter = () => {
 
         {/* Column 2 */}
         <VStack align="flex-start" gap={2}>
-          <Text fontWeight="bold">Quick as</Text>
+          <Text fontWeight="bold">Quick Links</Text>
           <a style={{ textDecoration: "underline" }} href="https://muleitim.github.io/ui_design/">Tim's UI/UX Book</a>
           <a style={{ textDecoration: "underline" }} href="https://muleitim.github.io/landing_page_1/">Other Tim Designs</a> <br />
 
