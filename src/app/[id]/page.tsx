@@ -48,7 +48,7 @@ export default async function ProductDetailPage ({
         <Flex justifyContent="center" mb={4}>
           <Link href={`/`} passHref>
             <Button px={2} >
-              Add To Cart
+              Back
             </Button>
           </Link>
         </Flex>
